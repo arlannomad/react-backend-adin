@@ -14,6 +14,7 @@ import CalculateBlocks from './Components/CalculateBlocks';
 
 const App = () => {
   const [playState, setPlayState] = useState(false);
+  
 
   return (
     <div>
